@@ -9,10 +9,13 @@ Unfortunately is not possible to compile under windows, liunx, macos. Cause inco
 You can propose code improvement and feature integration or code optimization.
 
 ## Install pymac form your system
+
+```
 - Install python on your operating system - https://www.python.org/downloads/
 - Install dependencies with pip (use pip or pip3 install namepackage) - pygame, player, tkinter, messagebox.
 - You download the source code by pressing the download button and unzip the program then open the directory.
 - You open to terminal or CMD and run this command - python pymac.py
+```
 
 You managed to make the game work, congratulations 👌
 
