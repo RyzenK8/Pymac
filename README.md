@@ -19,6 +19,8 @@ You can propose code improvement and feature integration or code optimization.
 ## Available run pymac naturally on Windows architecture x64
 Releases - https://github.com/RyzenK8/Pymac/releases/tag/latest
 
+
+
 You managed to make the game work, congratulations 👌
 
 ## The screenshot
